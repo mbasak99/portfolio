@@ -11,9 +11,7 @@ export default function Home() {
   return (
     <div className="font-sans home-container">
       <main>Hello World</main>
-      <footer>
-        this is pretty cool!
-        </footer>
+      <footer></footer>
     </div>
   );
 }
